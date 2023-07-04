@@ -22,6 +22,6 @@ function jumpscare()
 function aleert()
 {
 
-    alert('SEEEEEEEE ANDIAMOOOOOOO');
+    alert('Grazie mille, andiamo avanti...');
 
 }
